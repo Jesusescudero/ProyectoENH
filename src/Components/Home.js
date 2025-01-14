@@ -34,10 +34,14 @@ const Home = () => {
 
             {/* Resumen de las secciones */}
             <main className="card-container">
-                <Link to="/diagnostico" className="card">
-                    <h3>Sección 1: DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</h3>
-                    <p>Una mirada a las características y necesidades de la comunidad e institución.</p>
-                </Link>
+            <div className="card">
+                    <h3>SECCIÓN 1. DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</h3>
+                    <ul>
+                        <li>
+                            <Link to="https://drive.google.com/file/d/1nTacSI90nmExx009m_9EFR39JBp58ctW/view?usp=sharing">DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</Link>
+                        </li>
+                    </ul>
+                </div>
                 <div className="card">
                     <h3>SECCIÓN 2. ¿Qué es esa cosa llamada ciencia? </h3>
                     <ul>
@@ -50,7 +54,7 @@ const Home = () => {
                     <h3>SECCIÓN 3. YO, TÚ, NOSOTROS Y LA CIENCIA</h3>
                     <ul>
                         <li>
-                            <Link to="https://drive.google.com/file/d/1loHrcuQAooTpKoAdLQPEq9M0pYsnfA8r/view?usp=sharing">YO, TÚ, NOSOTROS Y LA CIENCIA</Link>
+                            <Link to="https://drive.google.com/file/d/1vPtj8xujN3NIQFePjqOSak-4F8H7-s4A/view?usp=sharing">YO, TÚ, NOSOTROS Y LA CIENCIA</Link>
                         </li>
                     </ul>
                 </div>

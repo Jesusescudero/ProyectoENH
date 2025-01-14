@@ -9,6 +9,14 @@
     flex-wrap: wrap; /* Permite que los elementos se envuelvan si es necesario */
     text-align: center; /* Centrado para pantallas pequeñas */
 }
+body {
+  font-family: 'Roboto Slab', serif; /* Usa la fuente en todo el sitio */
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* Color de fondo blanco */
+  color: #333; /* Color de texto */
+}
+
 
 .logos {
   display: flex;
@@ -70,15 +78,15 @@
   grid-template-columns: repeat(3, 1fr); /* Tres columnas */
   gap: 20px; /* Espaciado entre las tarjetas */
   padding: 20px;
-  background-color: #f9f9f9;
+  background-color: #418749;
   justify-items: center;
 }
 
 /* Estilo para cada tarjeta */
 .card {
-    background-color: #fff;
-    border: 3px solid #ddd;
-    border-radius: 10px; /* Bordes redondeados */
+    background-color: #f8ebeb;
+    border: 3px solid #c04fbc;
+    border-radius: 25px; /* Bordes redondeados */
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra para darle efecto de profundidad */
     padding: 15px;
     width: 100%; /* Se ajusta al tamaño del contenedor */
