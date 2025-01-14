@@ -46,10 +46,14 @@ const Home = () => {
                         </li>
                     </ul>
                 </div>
-                <Link to="/nosotros" className="card">
-                    <h3>Sección 3: Yo, tú, nosotros y la ciencia</h3>
-                    <p>Reflexionamos sobre nuestra relación con la ciencia en la vida cotidiana.</p>
-                </Link>
+                <div className="card">
+                    <h3>SECCIÓN 3. YO, TÚ, NOSOTROS Y LA CIENCIA</h3>
+                    <ul>
+                        <li>
+                            <Link to="https://drive.google.com/file/d/1loHrcuQAooTpKoAdLQPEq9M0pYsnfA8r/view?usp=sharing">YO, TÚ, NOSOTROS Y LA CIENCIA</Link>
+                        </li>
+                    </ul>
+                </div>
                 {/* Tarjeta de Experimentos con puntos y enlaces */}
                 <div className="card">
                     <h3>Sección 4: EXPLICAR LA CIENCIA SÍ, PERO CÓMO… (EXPERIMENTOS)</h3>
