@@ -1,0 +1,8 @@
+.carousel-item img {
+    width: 30%; /* Ajusta el ancho de la imagen (relativo al contenedor) */
+    height: auto; /* Mantén la proporción de la imagen */
+    border-radius: 20px; /* Bordes redondeados */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+  }
+  

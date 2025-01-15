@@ -2,7 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import logo1 from '../assets/Imagen1.jpg'; // Importa la imagen
 import logo2 from '../assets/Imagen2.png'; // Importa la segunda imagen
+import BootstrapCarousel from "../Components/Carousel";
 import '../styles/Home.css'; // Asegúrate de crear y usar este archivo CSS
+
 
 const Home = () => {
     return (
@@ -30,6 +32,7 @@ const Home = () => {
         </ul>
         <p className="text-center mt-3"><strong>COORDINADOR:</strong> JAIME FLORES HERNANDEZ</p>
         <p className="text-center"><strong>CURSO:</strong> CIENCIAS NATURALES. SU APRENDIZAJE Y SU ENSEÑANZA</p>
+        <BootstrapCarousel />
       </section>
 
             {/* Resumen de las secciones */}
@@ -103,7 +106,7 @@ const Home = () => {
                 </div>
             </main>
 
-            <footer class="footer">
+            <footer className="footer">
                 <p>Este proyecto fue desarrollado como parte del curso: <strong>Ciencias Naturales. Su aprendizaje y su enseñanza</strong>.</p>
                 
                 <p>&copy; 2025 Escuela Normal de las Huastecas.</p>
