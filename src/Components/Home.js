@@ -23,12 +23,12 @@ const Home = () => {
              <section className="mb-5">
         <h2 className="text-center">Integrantes del equipo</h2>
         <ul className="list-unstyled text-center mt-4">
-          <li>CHRISTOPHER ESCUDERO REYES</li>
-          <li>XERENI BADILLO HERNANDEZ</li>
+        <li>ARIADNA PALACIOS HERNÁNDEZ</li>
+          <li>XERENI BADILLO HERNÁNDEZ</li>
           <li>MARÍA DEL CIELO HERNÁNDEZ HERNÁNDEZ</li>
           <li>FERNANDA LÓPEZ SÁNCHEZ</li>
           <li>FÁTIMA MOJICA ARGUELLES</li>
-          <li>ARIADNA PALACIOS HERNANDEZ</li>
+          <li>CHRISTOPHER ESCUDERO REYES</li>
         </ul>
         <p className="text-center mt-3"><strong>COORDINADOR:</strong> JAIME FLORES HERNANDEZ</p>
         <p className="text-center"><strong>CURSO:</strong> CIENCIAS NATURALES. SU APRENDIZAJE Y SU ENSEÑANZA</p>
