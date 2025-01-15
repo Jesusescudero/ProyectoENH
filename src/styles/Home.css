@@ -3,8 +3,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #222;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     padding: 20px;
     flex-wrap: wrap; /* Permite que los elementos se envuelvan si es necesario */
     text-align: center; /* Centrado para pantallas pequeñas */
@@ -13,7 +13,7 @@ body {
   font-family: 'Roboto Slab', serif; /* Usa la fuente en todo el sitio */
   margin: 0;
   padding: 0;
-  background-color: #ADD8E6; /* Color de fondo blanco */
+  background-color:  #D2B48C; /* Color de fondo blanco */
   color: #333; /* Color de texto */
 }
 
@@ -78,14 +78,14 @@ body {
   grid-template-columns: repeat(3, 1fr); /* Tres columnas */
   gap: 20px; /* Espaciado entre las tarjetas */
   padding: 20px;
-  background-color: #418749;
+  background-color: #F5DEB3;
   justify-items: center;
 }
 
 /* Estilo para cada tarjeta */
 .card {
     background-color: #f8ebeb;
-    border: 3px solid #b32dae;
+    border: 3px solid #231923;
     border-radius: 25px; /* Bordes redondeados */
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra para darle efecto de profundidad */
     padding: 15px;
