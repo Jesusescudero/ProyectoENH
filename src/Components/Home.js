@@ -41,7 +41,7 @@ const Home = () => {
                     <h3>SECCIÓN 1. DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</h3>
                     <ul>
                         <li>
-                            <Link to="https://drive.google.com/file/d/1nTacSI90nmExx009m_9EFR39JBp58ctW/view?usp=sharing">DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</Link>
+                            <Link to="https://drive.google.com/file/d/1AVWntQ9V5u4DmqV1RrSHnvLXsMC9NQ37/view?usp=sharing">DIAGNÓSTICO DE LA COMUNIDAD E INSTITUCIONAL</Link>
                         </li>
                     </ul>
                 </div>
@@ -49,7 +49,7 @@ const Home = () => {
                     <h3>SECCIÓN 2. ¿Qué es esa cosa llamada ciencia? </h3>
                     <ul>
                         <li>
-                            <Link to="https://drive.google.com/file/d/1LCcSI87cgInvX7Hg_om7HNyGw0DNwRIu/view?usp=sharing">¿Qué es esa cosa llamada ciencia?</Link>
+                            <Link to="https://drive.google.com/file/d/1aBGWJAe5Xg5NKB094LaBX3fHw3JqoYGL/view?usp=sharing">¿Qué es esa cosa llamada ciencia?</Link>
                         </li>
                     </ul>
                 </div>
@@ -57,7 +57,7 @@ const Home = () => {
                     <h3>SECCIÓN 3. YO, TÚ, NOSOTROS Y LA CIENCIA</h3>
                     <ul>
                         <li>
-                            <Link to="https://drive.google.com/file/d/1vPtj8xujN3NIQFePjqOSak-4F8H7-s4A/view?usp=sharing">YO, TÚ, NOSOTROS Y LA CIENCIA</Link>
+                            <Link to="https://drive.google.com/file/d/1RUKeW26nh3HvBHPqZHawpMEEzsv1NTcV/view?usp=sharing">YO, TÚ, NOSOTROS Y LA CIENCIA</Link>
                         </li>
                     </ul>
                 </div>
